@@ -1,6 +1,4 @@
- 
-print("sdjfhbdhb")
- 
+print("Helllo, world!")
  
  
  
